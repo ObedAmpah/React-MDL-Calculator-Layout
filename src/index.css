@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(http://st.depositphotos.com/1062793/4683/i/450/depositphotos_46839369-School-design-elements-simple-letters.jpg);
+}
+
+#root {
+	margin-top: 100px;
+}
+
+.calculator {
+	background-color: #efefef;
+}
+
+.operator {
+  margin: 5px;
+  font-size: 15px;
+}
+
+.functions {
+	text-align: center;
+}
+
+.numbers {
+	text-align: center;
+}
